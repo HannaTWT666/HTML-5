@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="793568a074a3c34b6437b764d2b3be17.jpg" type="image/x-icon">
+    <title>html</title>
+</head>
+<style>
+    body{
+        background-color: lightblue;
+    }
+</style>
+<style>
+    mark {background-color: purple;
+
+    }
+</style>
+<body>
+    <H1>Tudo oque eu sei de HTML ate hoje</H1>
+    <hr>
+    <H2>Começando por:</H2>
+    <p>Eu sei usar tags como &lt; p &gt; &lt;/p &gt;, do &lt; h1 &gt; &lt;/h1 &gt; ate h6 e etc...,<br> usar simbolos como &UpperLeftArrow;, &reg;, &copy;,&trade;.</p>
+    <hr>
+    <h2>Sei botar <mark>imagens</mark> e ajustar seu tamanho conforme o da janela</h2>
+    <hr>
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="Imagens/foto-g.png" alt="imagem flexível">
+    </picture>
+    <h2>Audios</h2>
+    <hr>
+     <audio src="LoveMeNeverEndingEveretAlmond.mp3"  controls  loop></audio>
+    <audio preload="metadata" controls autoplay loop>
+        <source src="Ordinary Men - Mark Karan, Scott Guberman, Angeline Saris, Jeremy Hoenig.mp3" type="audio/mpeg">
+        <source src="Ordinary Men - Mark Karan, Scott Guberman, Angeline Saris, Jeremy Hoenig.mp3" type="audio/wav">
+        <source src="Ordinary Men - Mark Karan, Scott Guberman, Angeline Saris, Jeremy Hoenig.mp3" type="audio/ogg">
+    </audio>
+    <p>Infelizmente seu navegador não consegue reproduzir audio <a href="Ordinary Men - Mark Karan, Scott Guberman, Angeline Saris, Jeremy Hoenig.mp3">clique aqui para baixar o arquivo MP3</a></p>
+    <h2>Links</h2>
+    <hr>
+    <p>Links <mark>para donwload:</mark> <a href="Arquivos-Secretos-02-HQ-Kemi.pdf" download="Arquivos-Secretos-02-HQ-Kemi" type="application/png">baixar pdf</a></p> <!--Dependendo do navegador so abre ao inves de botar para donwload automatico-->
+    <p> Link para a <a href="pagina2.html" target="_blank" rel="internal">segunda pagina</a></p>
+    <h1>Listas</h1>
+    <hr>
+    <h4>Lista ordenada</h4>
+    <ol type="A" start="3">
+        <li>Listas</li>
+        <li>Ordenadas</li>
+        <li>agua</li>
+    </ol>
+    <h4>Lista não ordenadas</h4>
+    <ul type="disc">
+        <li>Lista</li>
+        <li>Não</li>
+        <li>Ordenadas</li>
+    </ul>
+</body>
+</html>
