@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{ 
+        background-color: aqua;
+    }
+</style>
+<body>
+    <h1>Segunda pagina</h1>
+    <hr>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, hic. Expedita labore temporibus nulla voluptates, consectetur ut aliquid placeat nihil accusantium fugiat. Fugiat, ut excepturi! Totam natus voluptatum sint quisquam?</p>
+    <h2> Volte pagina</h2>
+    <p>Volte a pagina <a href="GitHub.html">aqui</a></p>
+</body>
+</html>
