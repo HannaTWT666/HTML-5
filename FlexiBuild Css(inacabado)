@@ -1,0 +1,181 @@
+header {
+    background-color: rgb(1, 5, 43);
+    height: 120px;
+    
+}
+
+.logo1 {
+    width: 225px;
+    position: relative;
+    top: -45px;  
+    left: 80px;
+}
+
+.orcamento {
+    background-color: orangered;
+    color: white;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 17px;
+    position: relative;
+    left: 800px;
+    top: -150px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+}
+
+.Hero {
+    background: linear-gradient(to right, rgb(16, 204, 218), rgb(132, 0, 255));
+    position: relative;
+    top: -22px;
+    height: 250px;
+}
+
+.titi {
+    font-family: sans-serif;
+    color: white;
+    position: relative;
+    left: 180px;
+    top: 45px;
+}
+
+.imgdeex {
+    width: 200px;
+    position: relative;
+    top: -150px;
+    left: 650px;
+}
+
+.comece {
+     background-color: orangered;
+    color: white;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 17px;
+    position: relative;
+    left: -25px;
+    top: -150px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+}
+
+.saibamais {
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 17px;
+    position: relative;
+    left: 20px;
+    top: -150px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 2px solid white;
+}
+
+.Vcard1 {
+    background-color: transparent;
+    position: relative;
+    left: 190px;
+    top: 25px;
+    border-radius: 8px;
+    border: 2px solid black;
+    width: 250px;
+    height: 250px;
+}
+
+.grid {
+    position: relative;
+    top: -135px;
+    padding: 7px;
+    width: 68px;
+}
+
+.h1Vcard1 {
+    font-size: 23px;
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+    position: relative;
+    top: 90px;
+    padding: 10px;
+}
+
+.pVcard1 {
+    font-family: sans-serif;
+    position: relative;
+    top: 60px;
+    padding: 10px;
+}
+
+
+.Vcard2 {
+    background-color: transparent;
+    position: relative;
+    left: 500px;
+    top: -229px;
+    border-radius: 8px;
+    border: 2px solid black;
+    width: 250px;
+    height: 250px;
+}
+
+.h1Vcard2 {
+    font-size: 23px;
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+    position: relative;
+    top: 90px;
+    padding: 10px;
+}
+
+.pVcard2 {
+    font-family: sans-serif;
+    position: relative;
+    top: 60px;
+    padding: 10px;
+}
+
+.layout {
+    width: 68px;
+    position: relative;
+    top: -110px;
+}
+
+.Vcard3 {
+    background-color: transparent;
+    position: relative;
+    left: 800px;
+    top: -483px;
+    border-radius: 8px;
+    border: 2px solid black;
+    width: 250px;
+    height: 250px;
+}
+
+.h1Vcard3 {
+    font-size: 23px;
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+    position: relative;
+    top: 90px;
+    padding: 10px;
+}
+
+.pVcard3 {
+    font-family: sans-serif;
+    position: relative;
+    top: 60px;
+    padding: 10px;
+}
+
+.mobile {
+    width: 68px;
+    position: relative;
+    top: -120px;
+}
+
