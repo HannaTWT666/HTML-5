@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="flexibox.css">
+    <title>Flexi</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <img src="h0ty0ucs-removebg-preview.png" alt="" class="logo1">
+            <button class="orcamento">Orçamento</button>
+        </nav>
+    </header>
+    <main>
+        <section class="Hero">
+            <h1 class="titi">Desenvolva layouts <br> incríveis com Css</h1>
+            <h4 class="titi">Lorem ipsum dolor sit amet consectetur adipisicing elit <br> Quidem earum, tempore dolores deleniti <br> saepe maxime consequuntur.</h4>
+            <img src="jg50hqwj.png" alt="" class="imgdeex">
+            <button class="comece">Começe agora</button>
+            <button class="saibamais">Saiba mais</button>
+        </section>
+
+        <section class="vantagens">
+            <div class="Vcard1">
+                <h1 class="h1Vcard1">Grid moderno</h1>
+                <p class="pVcard1">Lorem ipsum dolor sit amet consectetur adipisicing elit Eaque temporibus.</p>
+                <img src="category_49dp_11BCB3_FILL0_wght400_GRAD0_opsz48.png" alt="" class="grid">
+            </div>
+            <div class="Vcard2">
+                <h1 class="h1Vcard2">Layouts Flexíveis</h1>
+                <p class="pVcard2">Lorem ipsum dolor sit amet consectetur adipisicing elit Eaque temporibus.</p>
+                <img src="menu_49dp_11BCB3_FILL0_wght400_GRAD0_opsz48.png" alt="" class="layout">
+            </div>
+            <div class="Vcard3">
+                <h1 class ="h1Vcard3">Design Responsivo</h1>
+                <p class="pVcard3">Lorem ipsum dolor sit amet consectetur adipisicing elit Eaque temporibus.</p>
+                <img src="mobile_49dp_11BCB3_FILL0_wght400_GRAD0_opsz48.png" alt="" class="mobile">
+            </div>
+        </section>
+    </main>
+</body>
+</html>
